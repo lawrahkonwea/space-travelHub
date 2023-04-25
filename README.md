@@ -48,17 +48,13 @@
   </ul>
 </details>
 
-<!-- Features -->
+[🚀 Live Demo](https://spacetravelsapp.netlify.app/)
+
 
 ### Key Features <a name="key-features"></a>
 
-
-
-
  - Booking Rockets and missions
 
-
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -96,7 +92,6 @@ To test the project, execute the following command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
 
 👤 **Daniel Kigozi**
 
@@ -116,7 +111,6 @@ To test the project, execute the following command:
 - Have more pages
 
 
-<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -126,7 +120,6 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
@@ -135,19 +128,16 @@ If you like this project, please do share it
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
 I would like to give thanks to Microverse.
 
-<!-- FAQ (optional) -->
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
